@@ -11,7 +11,3 @@ Analizar el rendimiento de actores, segmentar el catálogo de películas para pr
 * SQL (SQLite)
 * Python (Pandas)
 * Power BI (Power Query, DAX)
-
-## Ver el Dashboard Interactivo
-Puedes explorar el resultado final en el siguiente enlace:
-**(Enlace se activará el 18/08)]**
